@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nav2goe.github.io/static/css/main.62ce6ae3.chunk.css",
-    "main.js": "/nav2goe.github.io/static/js/main.cf361985.chunk.js",
-    "main.js.map": "/nav2goe.github.io/static/js/main.cf361985.chunk.js.map",
+    "main.js": "/nav2goe.github.io/static/js/main.d5830d48.chunk.js",
+    "main.js.map": "/nav2goe.github.io/static/js/main.d5830d48.chunk.js.map",
     "runtime-main.js": "/nav2goe.github.io/static/js/runtime-main.e22c725a.js",
     "runtime-main.js.map": "/nav2goe.github.io/static/js/runtime-main.e22c725a.js.map",
     "static/js/2.56080223.chunk.js": "/nav2goe.github.io/static/js/2.56080223.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e22c725a.js",
     "static/js/2.56080223.chunk.js",
     "static/css/main.62ce6ae3.chunk.css",
-    "static/js/main.cf361985.chunk.js"
+    "static/js/main.d5830d48.chunk.js"
   ]
 }
