@@ -28,7 +28,7 @@ const End = (props) => {
           {/* <a id="aGreen" href="https://inkadrum.github.io//">
             2. App-Version Starten
           </a> */}
-          <a href="kaiuby.github.io">
+          <a id="aGreen" href="kaiuby.github.io">
             Umfrage starten
           </a>
         </div>
