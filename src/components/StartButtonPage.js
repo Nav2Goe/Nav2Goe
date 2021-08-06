@@ -27,11 +27,7 @@ const StartButtonPage = () => {
             Dritte ist ausgeschlossen. 
             <br></br>
              <br></br> Bitte lesen Sie die Beschreibung
-            in den Apps und die Fragen des Fragebogens sorgfältig durch und
-            beantworten Sie diese möglichst spontan, damit eine höhere
-            Aussagekraft gewährleistet ist. Es gibt keine richtigen oder
-            falschen Antworten. Kreuzen Sie deshalb bitte jeweils die Antwort
-            an, die am ehesten Ihrer Meinung entspricht.
+            in den Apps sorgfältig durch
             <br></br>
             <br></br>   Vielen Dank
             für die Teilnahme! 
