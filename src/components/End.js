@@ -16,7 +16,7 @@ const End = (props) => {
               <br></br>Vielen Dank für die Teilnahme!{" "}
             </p>
             <p>
-              Klicken Sie jetzt bitte auf den Button, um zur zweiten App zu
+              Klicken Sie jetzt bitte auf den Button, um zur  Umfrage zu
               gelangen.
               <br></br>
               <br></br>
@@ -24,12 +24,9 @@ const End = (props) => {
           </div>
         </header>
         <div id="containerButtonEnd">
-          {/* <button type="submit">Zurück auf Anfang</button> */}
-          {/* <a id="aGreen" href="https://inkadrum.github.io//">
-            2. App-Version Starten
-          </a> */}
-          <a id="aGreen" href="https://kaiuby.github.io">
-            Zur zweiten App!
+          {/* Umfrage D */}
+          <a id="aGreen" href="https://www.survio.com/survey/d/X8Q4D7I6Y7T7F1N3H">
+            Zur Umfrage!
           </a>
         </div>
       </form>

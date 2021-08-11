@@ -268,7 +268,7 @@ let splittedDurationsFast = durationSplitFast( props.durationH, props.durationMi
           )}
         </div>
       )}
-      ;
+      
     </div>) :
     (
       <div>
@@ -347,7 +347,7 @@ let splittedDurationsFast = durationSplitFast( props.durationH, props.durationMi
       )}
     </div>)
     } 
-    )
+    
     </div>
   );
 };
